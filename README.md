@@ -1,5 +1,5 @@
 # Simplex_implementation
-Script para resolver problemas de Programação Linear pelo método simplex 
+Script de implementação do método Simplex para resolver problemas de Programação Linear. 
 
 # Referências
 1. Coding the Simplex Algorithm from scratch using Python and Numpy: https://medium.com/@jacob.d.moore1/coding-the-simplex-algorithm-from-scratch-using-python-and-numpy-93e3813e6e70
