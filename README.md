@@ -7,3 +7,5 @@ Script de implementação do método Simplex para resolver problemas de Programa
 2. Simplex Method With Python: https://radzion.com/blog/operations/simplex
 
 3. Creating a Linear Program Solver by Implementing the Simplex Method in Python with NumPy: https://mattmolter.medium.com/creating-a-linear-program-solver-by-implementing-the-simplex-method-in-python-with-numpy-22f4cbb9b6db
+
+4. Implementando o algoritmo Simplex: https://www.youtube.com/watch?v=Dh-uWR5VPTU
